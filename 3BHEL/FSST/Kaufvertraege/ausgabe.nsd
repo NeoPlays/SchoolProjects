@@ -1,0 +1,30 @@
+1
+0
+1
+printf("\n%s\n",p->nname);
+1
+1
+Ausgabe des Nachnamens
+1
+printf("%s\n",p->marke);
+1
+1
+Ausgabe der Marke
+1
+printf("%s\n",p->type);
+1
+1
+Ausgabe des Typs
+1
+printf("%f Liter/100km\n",p->verbrauch);
+1
+1
+Ausgabe des Verbrauchs in Liter/100km
+1
+printf("%s\n",p->reifendimensionen);
+1
+1
+Ausgabe der Reifendimensionen
+1
+printf("%d kg\n",p->eigengewicht);
+11
